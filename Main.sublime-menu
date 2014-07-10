@@ -18,12 +18,7 @@
               {
                 "command": "open_url",
                 "args": {"url": "http://github.com/Pleasurazy/Sublime-Better-Completion"},
-                "caption": "Fork me on Github"
-              },
-              {
-                "command": "open_url",
-                "args": {"url": "http://github.com/Pleasurazy/Sublime-Better-Completion"},
-                "caption": "http://github.com/Pleasurazy"
+                "caption": "Github"
               },
               { "caption": "-" },
               {
@@ -35,8 +30,7 @@
                 "command": "open_file",
                 "args": {"file": "${packages}/User/sublime-API-Completions-Package.sublime-settings"},
                 "caption": "Settings – User"
-              },
-              { "caption": "-" }
+              }
             ]
           }
         ]
