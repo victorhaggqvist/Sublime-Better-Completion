@@ -406,7 +406,6 @@
     [ "icon-next\tBootstrapClass", "icon-next" ],
 
     [ "fade\tBootstrapClass", "fade" ],
-    [ "in\tBootstrapClass", "in" ],
 
     [ "affix\tBootstrapClass", "affix" ],
     [ "alert-dismissible\tBootstrapClass", "alert-dismissible" ],
